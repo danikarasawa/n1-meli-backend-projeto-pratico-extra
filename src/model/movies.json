@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "titulo": "O Senhor dos Anéis",
+        "Sinopse": "",
+        "DataLancamento": "",
+        "Duracao": "",
+        "Genero": {"aventura", "história", "fantasia"}
+    },
+    {},
+    {}
+]

@@ -19,5 +19,5 @@ EM BREVE
 **Código:** {reprograma} e Dani Karasawa
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/xUOwG0NIe4p1prGLKw/source.gif" width="200" title="True" alt="Main Character of the True and the Rainbow Kingdom animation series">
+  <img src="https://media1.giphy.com/media/xUOwG0NIe4p1prGLKw/source.gif" width="400" title="True" alt="Main Character of the True and the Rainbow Kingdom animation series">
 </p>
