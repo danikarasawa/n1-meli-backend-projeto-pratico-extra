@@ -10,7 +10,7 @@ app.use("*", function(req, res, next){
     next()
 })
 
-// app.use("/", index)
-// app.use("/tarefas", tarefas)
+app.use("/", index)
+//app.use("/filmes", tarefas)
 
 module.exports = app

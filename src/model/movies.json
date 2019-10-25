@@ -1,12 +1,62 @@
 [
     {
         "id": 1,
-        "titulo": "O Senhor dos Anéis",
-        "Sinopse": "",
-        "DataLancamento": "",
-        "Duracao": "",
-        "Genero": {"aventura", "história", "fantasia"}
+        "titulo": "The Lord of the Rings: The Fellowship of the Ring",
+        "Sinopse": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "DataLancamento": "2001",
+        "Duracao": "178",
+        "Genero": [
+            {"tipo": "fantasia", "aplica": "true"},
+            {"tipo": "história", "aplica": "true"},
+            {"tipo": "aventura", "aplica": "true"},
+            {"tipo": "policial", "aplica": "false"},
+            {"tipo": "comédia", "aplica": "false"},
+            {"tipo": "romance", "aplica": "true"}
+        ]
     },
-    {},
-    {}
+    {
+        "id": 2,
+        "titulo": "Wanted",
+        "Sinopse": "A frustrated office worker learns that he is the son of a professional assassin and that he shares his father's superhuman killing abilities.",
+        "DataLancamento": "2008",
+        "Duracao": "110",
+        "Genero": [
+            {"tipo": "fantasia", "aplica": "true"},
+            {"tipo": "história", "aplica": "false"},
+            {"tipo": "aventura", "aplica": "true"},
+            {"tipo": "policial", "aplica": "false"},
+            {"tipo": "comédia", "aplica": "false"},
+            {"tipo": "romance", "aplica": "true"}
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Matrix",
+        "Sinopse": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "DataLancamento": "1999",
+        "Duracao": "136",
+        "Genero": [
+            {"tipo": "fantasia", "aplica": "true"},
+            {"tipo": "história", "aplica": "false"},
+            {"tipo": "aventura", "aplica": "true"},
+            {"tipo": "policial", "aplica": "false"},
+            {"tipo": "comédia", "aplica": "false"},
+            {"tipo": "romance", "aplica": "true"}
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Star Wars: Episode VII - The Force Awakens",
+        "Sinopse": "Three decades after the Empire's defeat, a new threat arises in the militant First Order. Defected stormtrooper Finn and the scavenger Rey are caught up in the Resistance's search for the missing Luke Skywalker.",
+        "DataLancamento": "2015",
+        "Duracao": "138",
+        "Genero": [
+            {"tipo": "fantasia", "aplica": "true"},
+            {"tipo": "história", "aplica": "true"},
+            {"tipo": "aventura", "aplica": "true"},
+            {"tipo": "policial", "aplica": "false"},
+            {"tipo": "comédia", "aplica": "false"},
+            {"tipo": "romance", "aplica": "false"}
+        ]
+    }
 ]
